@@ -1,1 +1,1 @@
-# backjoon
+# backjoon 알고리즘 풀이를 위한 레파지토리 입니다.
