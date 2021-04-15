@@ -3,7 +3,9 @@
 ### DFS 와 BFS
 - [게리맨더링 - 17471](../../tree/main/백준/src/백준4월3주차/게리맨더링17417.java) <a href="https://harry-choi.tistory.com/21"> (풀이) </a>
 - [달이 차오른다, 가자 - 1194](../../tree/main/백준/src/백준4월3주차/달이차오른다가자1194.java) <a href="https://harry-choi.tistory.com/26"> (풀이) </a>
-
+- [직사각형 탈출 - 16973](../../tree/main/백준/src/백준4월3주차/직사각형탈출16973.java) 
+- [토마토 - 7576](../../tree/main/백준/src/백준4월3주차/토마토7576.java) 
+- [아기상어 - 16236](../../tree/main/백준/src/백준4월3주차/아기상어16236.java) 
 
 ### 백트래킹
 
